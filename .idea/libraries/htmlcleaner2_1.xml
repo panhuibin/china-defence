@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="htmlcleaner2_1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mitbbs/libs/htmlcleaner2_1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/span/Documents/mitbbs2/mitbbs/libs/htmlcleaner2_1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ba1a3e898dbdcec58a42422cbc84a9b187a55179">
+        <dex dex="/Users/span/Documents/mitbbs2/mitbbs/build/intermediates/pre-dexed/debug/htmlcleaner2_1_2a461a48f6f40e780cb3afd8bbeb1b71a94b7165.jar" />
+    </item>
+    <item
+        jar="/Users/span/Documents/mitbbs2/mitbbs/libs/commons-lang-2.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b0236b252e86419eef20c31a44579d2aee2f0a69">
+        <dex dex="/Users/span/Documents/mitbbs2/mitbbs/build/intermediates/pre-dexed/debug/commons-lang-2.5_e177f37e5fa9d31b120887797c43d0140c7252b9.jar" />
+    </item>
+
+</items>

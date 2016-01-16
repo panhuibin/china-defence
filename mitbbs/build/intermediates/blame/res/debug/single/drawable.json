@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/build/intermediates/res/merged/debug/drawable/left_arrow.png",
+        "source": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/src/main/res/drawable/left_arrow.png"
+    },
+    {
+        "merged": "/Users/span/Documents/mitbbs2/mitbbs/build/intermediates/res/merged/debug/drawable/left_arrow.png",
+        "source": "/Users/span/Documents/mitbbs2/mitbbs/src/main/res/drawable/left_arrow.png"
+    },
+    {
+        "merged": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/build/intermediates/res/merged/debug/drawable/right_arrow.png",
+        "source": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/src/main/res/drawable/right_arrow.png"
+    },
+    {
+        "merged": "/Users/span/Documents/mitbbs2/mitbbs/build/intermediates/res/merged/debug/drawable/right_arrow.png",
+        "source": "/Users/span/Documents/mitbbs2/mitbbs/src/main/res/drawable/right_arrow.png"
+    },
+    {
+        "merged": "/Users/span/Documents/mitbbs2/mitbbs/build/intermediates/res/merged/debug/drawable/refresh.png",
+        "source": "/Users/span/Documents/mitbbs2/mitbbs/src/main/res/drawable/refresh.png"
+    },
+    {
+        "merged": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/build/intermediates/res/merged/debug/drawable/refresh.png",
+        "source": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/src/main/res/drawable/refresh.png"
+    }
+]

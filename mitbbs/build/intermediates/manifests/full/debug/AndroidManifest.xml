@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mboarder.app"
+    android:versionCode="2"
+    android:versionName="1.0.1" >
+
+    <uses-sdk
+        android:minSdkVersion="4"
+        android:targetSdkVersion="4" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:debuggable="false"
+        android:icon="@drawable/logoround"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Light" >
+        <activity
+            android:name="com.mboarder.app.MitbbsCategoryLoader"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.mboarder.app.PageLoader" />
+        <activity android:name="com.mboarder.app.BoardLoader" />
+    </application>
+
+</manifest>

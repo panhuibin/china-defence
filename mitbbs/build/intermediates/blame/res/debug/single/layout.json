@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/build/intermediates/res/merged/debug/layout/list_view.xml",
+        "source": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/src/main/res/layout/list_view.xml"
+    },
+    {
+        "merged": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/build/intermediates/res/merged/debug/layout/category_page_list_view.xml",
+        "source": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/src/main/res/layout/category_page_list_view.xml"
+    },
+    {
+        "merged": "/Users/span/Documents/mitbbs2/mitbbs/build/intermediates/res/merged/debug/layout/list_view_topic.xml",
+        "source": "/Users/span/Documents/mitbbs2/mitbbs/src/main/res/layout/list_view_topic.xml"
+    },
+    {
+        "merged": "/Users/span/Documents/mitbbs2/mitbbs/build/intermediates/res/merged/debug/layout/post.xml",
+        "source": "/Users/span/Documents/mitbbs2/mitbbs/src/main/res/layout/post.xml"
+    },
+    {
+        "merged": "/Users/span/Documents/mitbbs2/mitbbs/build/intermediates/res/merged/debug/layout/category_page_list_view.xml",
+        "source": "/Users/span/Documents/mitbbs2/mitbbs/src/main/res/layout/category_page_list_view.xml"
+    },
+    {
+        "merged": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/build/intermediates/res/merged/debug/layout/post.xml",
+        "source": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/src/main/res/layout/post.xml"
+    },
+    {
+        "merged": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/build/intermediates/res/merged/debug/layout/topiclist.xml",
+        "source": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/src/main/res/layout/topiclist.xml"
+    },
+    {
+        "merged": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/build/intermediates/res/merged/debug/layout/boardlistitem.xml",
+        "source": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/src/main/res/layout/boardlistitem.xml"
+    },
+    {
+        "merged": "/Users/span/Documents/mitbbs2/mitbbs/build/intermediates/res/merged/debug/layout/boardlistitem.xml",
+        "source": "/Users/span/Documents/mitbbs2/mitbbs/src/main/res/layout/boardlistitem.xml"
+    },
+    {
+        "merged": "/Users/span/Documents/mitbbs2/mitbbs/build/intermediates/res/merged/debug/layout/topiclist.xml",
+        "source": "/Users/span/Documents/mitbbs2/mitbbs/src/main/res/layout/topiclist.xml"
+    },
+    {
+        "merged": "/Users/span/Documents/mitbbs2/mitbbs/build/intermediates/res/merged/debug/layout/category_main.xml",
+        "source": "/Users/span/Documents/mitbbs2/mitbbs/src/main/res/layout/category_main.xml"
+    },
+    {
+        "merged": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/build/intermediates/res/merged/debug/layout/category_main.xml",
+        "source": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/src/main/res/layout/category_main.xml"
+    },
+    {
+        "merged": "/Users/span/Documents/mitbbs2/mitbbs/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/span/Documents/mitbbs2/mitbbs/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/build/intermediates/res/merged/debug/layout/list_view_topic.xml",
+        "source": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/src/main/res/layout/list_view_topic.xml"
+    },
+    {
+        "merged": "/Users/span/Documents/mitbbs2/mitbbs/build/intermediates/res/merged/debug/layout/list_view.xml",
+        "source": "/Users/span/Documents/mitbbs2/mitbbs/src/main/res/layout/list_view.xml"
+    },
+    {
+        "merged": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/src/main/res/layout/main.xml"
+    }
+]

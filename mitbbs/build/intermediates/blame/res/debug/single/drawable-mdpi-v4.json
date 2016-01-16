@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/span/Documents/mitbbs2/mitbbs/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_close_clear_cancel.png",
+        "source": "/Users/span/Documents/mitbbs2/mitbbs/src/main/res/drawable-mdpi/ic_menu_close_clear_cancel.png"
+    },
+    {
+        "merged": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_back.png",
+        "source": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/src/main/res/drawable-mdpi/ic_menu_back.png"
+    },
+    {
+        "merged": "/Users/span/Documents/mitbbs2/mitbbs/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
+        "source": "/Users/span/Documents/mitbbs2/mitbbs/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_close_clear_cancel.png",
+        "source": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/src/main/res/drawable-mdpi/ic_menu_close_clear_cancel.png"
+    },
+    {
+        "merged": "/Users/span/Documents/mitbbs2/mitbbs/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_refresh.png",
+        "source": "/Users/span/Documents/mitbbs2/mitbbs/src/main/res/drawable-mdpi/ic_menu_refresh.png"
+    },
+    {
+        "merged": "/Users/span/Documents/mitbbs2/mitbbs/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_back.png",
+        "source": "/Users/span/Documents/mitbbs2/mitbbs/src/main/res/drawable-mdpi/ic_menu_back.png"
+    },
+    {
+        "merged": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_forward.png",
+        "source": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/src/main/res/drawable-mdpi/ic_menu_forward.png"
+    },
+    {
+        "merged": "/Users/span/Documents/mitbbs2/mitbbs/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_info_details.png",
+        "source": "/Users/span/Documents/mitbbs2/mitbbs/src/main/res/drawable-mdpi/ic_menu_info_details.png"
+    },
+    {
+        "merged": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_info_details.png",
+        "source": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/src/main/res/drawable-mdpi/ic_menu_info_details.png"
+    },
+    {
+        "merged": "/Users/span/Documents/mitbbs2/mitbbs/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_forward.png",
+        "source": "/Users/span/Documents/mitbbs2/mitbbs/src/main/res/drawable-mdpi/ic_menu_forward.png"
+    },
+    {
+        "merged": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_refresh.png",
+        "source": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/src/main/res/drawable-mdpi/ic_menu_refresh.png"
+    },
+    {
+        "merged": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
+        "source": "/Users/span/Documents/SampleForum/mitbbs2/mitbbs/src/main/res/drawable-mdpi/icon.png"
+    }
+]
